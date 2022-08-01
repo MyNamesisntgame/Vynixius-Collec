@@ -1,0 +1,33 @@
+if game.PlaceId == 8982709021 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/YouTube%20Life/Auto%20Farm.lua"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 537413528 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/BABFT"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 606849621 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Jailbreak/Script.lua"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 3101667897 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 3956818381 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Ninja%20Legends/Script.lua"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 4623386862 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Piggy/Piggy"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 155615604 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Prison%20Life/Script.lua"
+    loadstring(game:HttpGet(url))()
+elseif game.PlaceId == 1962086868 then
+    repeat wait() until game.Players.LocalPlayer.Character
+    url = "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Tower%20of%20Hell/Tower%20of%20Hell"
+    loadstring(game:HttpGet(url))()
+end
